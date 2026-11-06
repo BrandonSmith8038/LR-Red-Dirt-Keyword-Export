@@ -1,0 +1,3 @@
+# Release zips are built from the plugin folder and uploaded to GitHub Releases
+dist/
+*.zip
